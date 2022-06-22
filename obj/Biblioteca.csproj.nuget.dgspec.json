@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Atv2_BrunoFreitas\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Atv2_BrunoFreitas\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Atv2_BrunoFreitas\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Atv2_BrunoFreitas\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\OneDrive\\Documentos\\curso_mod2\\UC07\\Atv2_BrunoFreitas\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
